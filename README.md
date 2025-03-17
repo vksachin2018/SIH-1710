@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:17/03/2025
+## Register Number:212223220119
+## Name:Vaushnavi S.A
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,16 +11,48 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+```
+Real-Time Station Navigation: Use AI-based geolocation and mapping services to provide real-time indoor navigation within railway stations, helping passengers locate facilities like ticket counters, platforms, restrooms, and waiting areas.
+
+Voice-Guided Assistance: Implement voice-guided navigation for differently-abled passengers, ensuring accessibility for visually impaired individuals.
+
+Live Train & Platform Updates: Provide live updates on train schedules, platform changes, and announcements through a mobile app and digital kiosks.
+
+User Feedback System: Enable passengers to provide real-time feedback on station facilities and navigation quality to improve the system continuously.
+
+Integration with Railway Services: Seamless integration with railway networks for ticket booking, emergency services, and station authority communication.
+```
 
 
 ## Proposed Solution / Architecture Diagram
+![Railway archi](https://github.com/user-attachments/assets/ae09b8fc-34e6-453d-9c90-4d9ef35f2472)
 
 
 ## Use Cases
+![422804422-e62cd6f6-ddc5-4ae1-9af7-f6404496883a](https://github.com/user-attachments/assets/56abc6ca-9adf-4aca-bab1-ba9cfab9d5ff)
 
 
 ## Technology Stack
+```
+Frontend Technologies: Mobile Application (Android & iOS) Web & Digital Kiosk Interface
 
+Backend Technologies: Backend Development Database Management Real-Time Data Handling
+
+Location Tracking & Indoor Navigation: Outdoor Navigation Indoor Positioning System (IPS)
+
+Accessibility Features: Voice-Guided Assistance Screen Reader Compatibility
+
+Cloud Services & Deployment: Cloud Platforms DevOps & CI/CD
+```
 
 ## Dependencies
+```
+Cloud Backend (AWS/GCP/Azure) – Hosting real-time maps & updates
+
+Railway Station APIs – Fetching train schedules & platform details
+
+IoT Sensors & Bluetooth Beacons – Live crowd monitoring
+
+Text-to-Speech API – Google TTS / IBM Watson TTS
+```
 
