@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:17/03/2025
-## Register Number:212223220119
-## Name:Vaishnavi S.A
+# Date:25/04/2025
+## Register Number:212223220025
+## Name:GOKUL SACHIN K
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
